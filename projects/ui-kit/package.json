@@ -1,0 +1,14 @@
+{
+  "name": "ui-kit",
+  "version": "0.0.1",
+  "peerDependencies": {
+    "@angular/common": "^11.0.1",
+    "@angular/core": "^11.0.1"
+  },
+  "dependencies": {
+    "add": "^2.0.6",
+    "devextreme": "^20.2.3",
+    "devextreme-angular": "^20.2.3",
+    "tslib": "^2.0.0"
+  }
+}
